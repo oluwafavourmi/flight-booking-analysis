@@ -1,5 +1,7 @@
 # flight-booking-analysis
 
+![vizualization](https://github.com/oluwafavourmi/flight-booking-analysis/blob/main/viz/Flight%20Analysis.png)
+
 Analysis of the Flight Booking dataset, the following insights were uncovered:
 1. 50,000 booking requests were made with only 7478 bookings completed, 42,520 of the booking requests weren't completed.
 
